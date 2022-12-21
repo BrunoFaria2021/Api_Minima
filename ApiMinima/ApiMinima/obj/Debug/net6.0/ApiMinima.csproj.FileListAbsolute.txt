@@ -24,3 +24,12 @@ D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\refint\ApiMinima.
 D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\ApiMinima.pdb
 D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\ApiMinima.genruntimeconfig.cache
 D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\ref\ApiMinima.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\ApiMinima.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\obj\Debug\net6.0\ApiMinima.csproj.CopyComplete
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos C#\Api_Minima\ApiMinima\ApiMinima\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
