@@ -1,0 +1,28 @@
+ASP.NET Minimal APIs-Objetivos
+
+*-* Reduzir a complexidade do codigo para quem esta começando
+
+*-*Reduzir recursos não essenciais(Controllers, Roteamento, filtros, etc ) que sempre estavam presentes nos projetos ASPNEt;
+
+*-*Abraçar o conceito de minimalismo a nivel API;
+
+*-* Ser escalável garantindo que sua aplicação possa crescer se necessario;
+
+
+****************************x*********************************
+
+Templet ASP.NET COre Empty
+
+
+****************************x*********************************
+
+Objetivo do WebApplication configurar de forma simples e objetiva um app web ele simplifica os recurso juntando tudo em um lugar só.
+
+Global Using são0 definidos de forma implicita
+
+Model Bainden
+
+Ferrqamentas
+
+Swashbuckle.AspNetCore
+
