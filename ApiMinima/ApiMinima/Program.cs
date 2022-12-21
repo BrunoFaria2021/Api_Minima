@@ -1,10 +1,8 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc.ApplicationParts;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Serviço de injeção de dependecia
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -13,7 +11,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 var app = builder.Build();
 
-//Tratamento de erro do desenvolvedor.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -21,7 +19,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseSwagger();
 
-//endpoint
+
 
 app.MapGet("/Clientes", async(AppDbContext dbContext )=>
         await dbContext.Clientes.ToListAsync());
@@ -63,7 +61,7 @@ app.UseSwaggerUI();
 
 app.Run();
 
-//Record são tipo de referencia que usa a igualdade baseada em valores
+
 
 public class Cliente
 {

@@ -36,6 +36,6 @@ https://github.com/BrunoFaria2021
 <p align="
 LEFT
 ">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Em desenvolvimento &color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=Em - desenvolvimento &color=GREEN&style=for-the-badge"/>
 </p>
 
