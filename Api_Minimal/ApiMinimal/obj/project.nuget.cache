@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1MJnLxDRygnHhVpbnkOYWTbZ2rF158Vp3Y2MoYt0DB9WTANP2p9O4rwsS0txSwpHiRKR7fB7HK3sJS8F89O6+Q==",
+  "dgSpecHash": "T5wLgU6MbhzcP6ClIV7ZJfpaveiQ84ywTOKOLUadKBwzyE3ckUE0/t9aMZ3hpkA6VDN7W5+zaGa3OuecSJ+JoA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\MinimalAPIs.csproj",
+  "projectFilePath": "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\MinimalAPIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-rc.1.21452.10\\microsoft.entityframeworkcore.6.0.0-rc.1.21452.10.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-rc.1.21452.10\\microsoft.entityframeworkcore.abstractions.6.0.0-rc.1.21452.10.nupkg.sha512",

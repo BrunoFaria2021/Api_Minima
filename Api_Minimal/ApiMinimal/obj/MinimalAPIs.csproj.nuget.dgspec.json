@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\MinimalAPIs.csproj": {}
+    "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\MinimalAPIs.csproj": {}
   },
   "projects": {
-    "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\MinimalAPIs.csproj": {
+    "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\MinimalAPIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\MinimalAPIs.csproj",
+        "projectUniqueName": "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\MinimalAPIs.csproj",
         "projectName": "MinimalAPIs",
-        "projectPath": "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\MinimalAPIs.csproj",
+        "projectPath": "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\MinimalAPIs.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos C#\\Api_Minima\\ApiMinima\\ApiMinima\\obj\\",
+        "outputPath": "D:\\Projetos C#\\Minimal_APIs\\Api_Minimal\\ApiMinimal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
